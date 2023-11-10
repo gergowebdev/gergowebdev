@@ -5,7 +5,14 @@
 I am Gergő from Hungary with enormous passion for coding. I really enjoy learning languages and frameworks such as React, or React Native.
 I also enjoy wireframing, ui/ux in general. You can check out my website at: www.gergogyenes.com
 
-Skills: REACT / JS / HTML / CSS / TAILWIND / SASS / MYSQL / AWS
+## Skills and Experience 
+* ⚛️ React
+* 📱 React Native
+* 💻 HTML, CSS, JS
+* TAILWIND
+* SASS
+* MYSQL
+* AWS
 
 - 🔭 I’m currently working on several React Applications 
 - 🌱 I’m currently learning TypeScript and Node.js
