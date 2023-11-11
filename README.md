@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Gergő
+### Hi there 👋, I'm Gergő
 #### Jr. Frontend - React Developer
 ![Jr. Frontend - React Developer](https://github.com/gergowebdev/gergowebdev/blob/main/Gray%20Modern%20Marketing%20LinkedIn%20Banner.png)
 
