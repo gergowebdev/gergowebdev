@@ -15,15 +15,6 @@ I also enjoy wireframing, ui/ux in general. You can check out my website at: www
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-## Skills and Experience 
-* ⚛️ React
-* 📱 React Native
-* 💻 HTML, CSS, JS
-* TAILWIND
-* SASS
-* MYSQL
-* AWS
-
 - 🔭 I’m currently working on several React Applications 
 - 🌱 I’m currently learning TypeScript and Node.js
 
