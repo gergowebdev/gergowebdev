@@ -44,6 +44,8 @@ I get excited about opportunities where I get to turn Figma designs into pixel p
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+<br>
+
 
 - 🔭 I’m currently working on several React Applications 
 - 🌱 I’m currently learning TypeScript and Node.js to become a Full Stack Developer
