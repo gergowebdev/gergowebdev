@@ -1,7 +1,15 @@
-# Welcome to Gergő Gyenes's profile!👋
+# Welcome to Gergő Gyenes's profile! 
+<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+
 #### Experienced Frontend - React Developer
 
 ![Jr. Frontend - React Developer](https://github.com/gergowebdev/gergowebdev/blob/main/Gray%20Modern%20Marketing%20LinkedIn%20Banner.png)
+
+:mailbox: Reach me out!
+
+[![Mail Badge](https://img.shields.io/badge/-Gergő-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gergo.gyenes@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Gergő-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gergo-developer/)
+
 
 #### GitHub stats
 
@@ -9,10 +17,11 @@
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gergowebdev&layout=compact"/>
 
-I am Gergő from Hungary with enormous passion for coding. :computer: I really enjoy learning languages and frameworks such as React, or React Native.
-I also enjoy wireframing, UI/UX in general. You can check out my website at: www.gergogyenes.com
+<br>
 
-[![Mail Badge] (https://img.shields.io/badge/?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gergo.gyenes@gmail.com)
+I am Gergő from Hungary with enormous passion for coding. :computer: I really enjoy learning languages and frameworks such as React, or React Native.
+I get excited about opportunities where I get to turn Figma designs into pixel perfect code. You can check out my website at: www.gergogyenes.com
+
 
 
 
@@ -25,10 +34,17 @@ I also enjoy wireframing, UI/UX in general. You can check out my website at: www
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 - 🔭 I’m currently working on several React Applications 
-- 🌱 I’m currently learning TypeScript and Node.js
+- 🌱 I’m currently learning TypeScript and Node.js to become a Full Stack Developer
 - :mailbox: How to reach me: gergo.gyenes@gmail.com
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gergowebdev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gergo-developer/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.gergogyenes.com)  
