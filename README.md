@@ -9,7 +9,7 @@
 
 [![Mail Badge](https://img.shields.io/badge/-Gergő-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gergo.gyenes@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Gergő-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gergo-developer/)
-(https://img.shields.io/badge/-@gergo-developer-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/gergo.gyenes16)
+[Instagram Badge](https://img.shields.io/badge/-@gergo-developer-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/gergo.gyenes16)
 
 
 #### GitHub stats
