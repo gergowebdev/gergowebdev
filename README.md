@@ -45,6 +45,7 @@ I am developing interactive web apps. As a developer, my expertise lies in creat
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <br>
+<br>
 
 
 - 🔭 I’m currently working on several React Applications 
