@@ -3,7 +3,7 @@
 
 #### Frontend - React Developer
 
-![Jr. Frontend - React Developer](https://github.com/gergowebdev/gergowebdev/blob/main/Gray%20Modern%20Marketing%20LinkedIn%20Banner.png)
+![Jr. Frontend - React Developer](https://https://github.com/gergowebdev/gergowebdev/blob/main/GGY.png)
 
 :mailbox: Reach me out!
 
