@@ -3,7 +3,7 @@
 
 #### Frontend - React Developer
 
-![Jr. Frontend - React Developer](https://github.com/gergowebdev/gergowebdev/blob/main/GGY.png)
+![Jr. Frontend - React Developer](https://github.com/gergowebdev/gergowebdev/blob/main/G.png)
 
 :mailbox: Reach me out!
 
