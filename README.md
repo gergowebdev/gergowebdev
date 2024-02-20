@@ -3,7 +3,7 @@
 
 #### Full - Stack (React & Node.js) Developer
 
-![Jr. Frontend - React Developer](https://github.com/gergowebdev/gergowebdev/blob/main/G.png)
+![Jr. Frontend - React Developer](https://github.com/gergowebdev/gergowebdev/blob/main/Gergő.png)
 
 :mailbox: Reach me out!
 
