@@ -58,6 +58,6 @@ I am developing interactive web apps. As a developer, my expertise lies in creat
 <br>
 
 
-- 🔭 I’m currently working on several React Applications 
+- 🔭 I’m currently working on several React & Node.js Applications
 - 🌱 I’m currently learning React Native, TypeScript and Node.js to become a Medior Full Stack Developer
 - :mailbox: How to reach me: gergo.gyenes@gmail.com
