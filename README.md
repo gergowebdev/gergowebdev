@@ -1,7 +1,7 @@
 # Welcome! I'm Gergő! 
 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-#### Full - Stack Developer
+#### Full - Stack Software Developer
 
 ![Jr. Frontend - React Developer](https://github.com/gergowebdev/gergowebdev/blob/main/Gergő.png)
 
@@ -13,9 +13,7 @@
 
 #### GitHub stats
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=gergowebdev&show_icons=true&theme=dark"/>
-
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gergowebdev&layout=compact"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gergowebdev)](https://github.com/gergowebdev/github-readme-stats)
 
 <br>
 
